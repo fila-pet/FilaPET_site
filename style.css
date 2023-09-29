@@ -1,0 +1,37 @@
+:root{
+    --primary:#0CB236
+}
+
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.navbar-color{
+    background-color: var(--primary);
+}
+.greentext{
+    color: var(--primary);
+}
+footer{
+    background-color: var(--primary);
+
+}
+.metodologia{
+    background-color: var(--primary);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: dotted;
+}
+.btn{
+    background-color: var(--primary);
+    color: aliceblue;
+    border-radius: 4%;
+}
+.btn1{
+   background-color: rgb(152, 219, 152);
+   color: rgb(78, 76, 76);
+   border-radius: 4%;
+   gap: 3%;
+}
